@@ -1,202 +1,105 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0077FF&height=200&section=header&text=Arushi&fontSize=40&fontColor=ffffff"/>
 
-<# 👋 Hi, I'm Arushi
-
-### 💻  Geography Student | Data Analytics | AI & Technology Enthusiast
+<h1 align="center">Hi 👋, I'm Arushi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Computer+Science+%26+Geography+Student;Data+Analytics+Enthusiast;AI+%26+Technology+Explorer;Always+Learning+%26+Building+🚀" />
+🌍 Geography Student | 📊 Aspiring Data Analyst | 🤖 AI & Tech Enthusiast
+</p>
+
+<p align="center">
+<a href="mailto:arushigeo@gmail.com">
+<img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/arushicoder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/aspirantgirly">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Studyholic_05">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&center=true&vCenter=true&lines=Learning+Data+Analytics;Exploring+Artificial+Intelligence;Building+Real+World+Projects;Turning+Ideas+into+Code+🚀">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Geography Student
-🐍 Passionate about Python and programming
-📊 Interested in Data Analytics and Data Visualization
-🤖 Exploring Artificial Intelligence & Machine Learning
-🌍 Interested in Geography, spatial data, and technology
-💡 Building practical projects to solve real-world problems
-🏆 Exploring hackathons, technology, and continuous learning
-
-> 🌍 **Where Geography Meets Technology & Data**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
-
-### 📊 Data & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-</p>
-
-### 🤖 AI & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
-</p>
+- 🌍 Currently studying **Geography**
+- 🎓 Diploma in **Computer Science & Technology**
+- 🔭 Currently working on **Data Analytics & AI Projects**
+- 🌱 Learning **Python, Data Analytics, AI & Machine Learning**
+- 📊 Interested in **Data Analysis, Data Visualization & Technology**
+- 🤖 Exploring **Artificial Intelligence and practical AI projects**
+- 💻 Building projects to strengthen my technical skills
+- 📚 Passionate about **learning, creating and sharing knowledge**
+- ⚡ Fun fact: *I love turning ideas into real projects 💡*
 
 ---
 
-# 🚀 Featured Projects
-
-### 📊 [Data Analytics Bootcamp](https://github.com/arushicoder/Data-Analytics-Bootcamp)
-
-A project-based repository focused on learning and practicing data analytics, data exploration, and visualization.
-
-**Focus:** Python • Pandas • NumPy • Data Analysis • Data Visualization
-
----
-
-### 🤖 [Gemini Chatbot](https://github.com/arushicoder/gemini-chatbot)
-
-An AI-powered chatbot project built to interact with users and generate intelligent responses using Google's Gemini AI.
-
-**Focus:** Python • Gemini AI • API • Chatbot Development
-
----
-
-### 🎓 StuDUBuddy AI
-
-An AI-powered student assistance application designed to help students with questions and learning.
-
-**Tech:** Python • Streamlit • AI
-
----
-
-### 🎵 AI Lo-Fi Studio
-
-An experimental AI project connecting mood detection with music and visual experiences.
-
-**Tech:** Python • Librosa • AI
-
----
-
-### 📚 Study Material Platform
-
-A platform for organizing and accessing study materials and educational resources.
-
-**Tech:** React • JavaScript • CSS
-
----
-
-# 🌍 Geography + Technology
-
-I'm interested in exploring how **technology, data, and geography** can work together to understand real-world problems.
-
-🗺️ Geographic Data
-📊 Data Visualization
-🌐 Digital Mapping
-🤖 AI & Geography
-📈 Data Analysis
-🌍 Real-World Geographic Problems
-
----
-
-# 📈 GitHub Stats
+## 🛠️ Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arushicoder&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushicoder&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## ⚙️ Tools & Technologies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arushicoder&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,streamlit" />
 </p>
 
 ---
 
-# 🎯 Currently Learning
+## 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 <a href="https://github.com/arushicoder/Data-Analytics-Bootcamp">Data Analytics Bootcamp</a>  
+➡️ Practical learning and projects focused on **Data Analytics**.
+
+🔹 <a href="https://github.com/arushicoder/gemini-chatbot">Gemini Chatbot</a>  
+➡️ An **AI-powered chatbot** project using Gemini.
+
+🔹 <a href="https://github.com/arushicoder">More Projects</a>  
+➡️ Explore my GitHub repositories and ongoing projects.
+
+---
+
+## 💡 What I'm Currently Exploring
 
 ```text
-🐍 Advanced Python
-📊 Data Analytics
-🤖 Artificial Intelligence
-🧠 Machine Learning
-🌍 Geographic Data & Analysis
-🌐 Full-Stack Development
-⚙️ Automation
-```
-
----
-
-# 🏆 Goals
-
-🚀 Build meaningful projects
-📊 Become stronger in Data Analytics
-🌍 Combine Geography with Technology
-🤖 Explore AI-powered applications
-💡 Improve problem-solving skills
-🏆 Participate in more hackathons
-🌐 Build useful real-world applications
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:arushigeo@gmail.com">
-<img src="https://img.shields.io/badge/Email-arushigeo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/aspirantgirly?stkn=cTZycGFvNzlvZGdi">
-<img src="https://img.shields.io/badge/Instagram-aspirantgirly-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@Studyholic_05">
-<img src="https://img.shields.io/badge/YouTube-Studyholic_05-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/arushicoder">
-<img src="https://img.shields.io/badge/GitHub-arushicoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-
-🌍 Learn • 📊 Analyze • 🤖 Build • 🚀 Grow
-
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-!--
-**arushicoder/arushicoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+   ↓
+Data Analytics
+   ↓
+Data Visualization
+   ↓
+Artificial Intelligence
+   ↓
+Machine Learning
+   ↓
+Real-World Projects 🚀
