@@ -35,7 +35,6 @@
 ## 👩‍💻 About Me
 
 - 🌍 Currently studying **Geography**
-- 🎓 Diploma in **Computer Science & Technology**
 - 🔭 Currently working on **Data Analytics & AI Projects**
 - 🌱 Learning **Python, Data Analytics, AI & Machine Learning**
 - 📊 Interested in **Data Analysis, Data Visualization & Technology**
