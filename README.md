@@ -1,12 +1,19 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=200&section=header&text=Arushi&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:2563EB,100:06B6D4&height=180&section=header" width="100%" alt="Profile Header"/>
+</p>
+
+<p align="center">
+  <!-- Place your animated circular Arushi GIF at assets/arushi-pulse.gif -->
+  <img src="assets/arushi-pulse.gif" width="180" alt="Arushi - Pulsing Circular Name"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Arushi</h1>
 
-<h3 align="center">🌍 Geography Student | 📊 Aspiring Data Analyst | 🤖 AI & Tech Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Learning+Data+Analytics;Exploring+Artificial+Intelligence;Building+Real+World+Projects;Turning+Ideas+into+Code+🚀" alt="Typing SVG"/>
+  🌍 Geography Student | 📊 Aspiring Data Analyst | 🤖 AI & Tech Enthusiast
 </p>
 
 <p align="center">
@@ -22,6 +29,12 @@
   <a href="https://www.youtube.com/@Studyholic_05">
     <img src="https://img.shields.io/badge/YouTube-0B1020?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
   </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Learning+Data+Analytics;Exploring+Artificial+Intelligence;Building+Real+World+Projects;Turning+Ideas+into+Code+🚀" alt="Typing Animation"/>
 </p>
 
 ---
@@ -69,27 +82,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Data Analytics Bootcamp
-
-<a href="https://github.com/arushicoder/Data-Analytics-Bootcamp">
-  <img src="https://img.shields.io/badge/Explore_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Data Analytics Bootcamp"/>
-</a>
+🔹 **[Data Analytics Bootcamp](https://github.com/arushicoder/Data-Analytics-Bootcamp)**
 
 Practical learning and projects focused on **Data Analytics**.
 
-### 🔹 Gemini Chatbot
-
-<a href="https://github.com/arushicoder/gemini-chatbot">
-  <img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Explore Gemini Chatbot"/>
-</a>
+🔹 **[Gemini Chatbot](https://github.com/arushicoder/gemini-chatbot)**
 
 An **AI-powered chatbot** project using Gemini.
 
-### 🔹 More Projects
-
-<a href="https://github.com/arushicoder">
-  <img src="https://img.shields.io/badge/View_All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-</a>
+🔹 **[More Projects](https://github.com/arushicoder)**
 
 Explore my GitHub repositories and ongoing projects.
 
